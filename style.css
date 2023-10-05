@@ -1,4 +1,9 @@
-body{font-size: 20px;
-text-align: center
-background-color:gray
-titulo;{align}
+body{font-size: 20px;}
+    
+.principal{text-align: center;
+background-color:gray;}
+
+
+.destaque{color:red}
+
+.imagem{width:100%}
